@@ -1,0 +1,57 @@
+h2 {
+    font-size: 20px; 
+    color: rgb(230, 57, 158);
+}
+ div {
+    background-color: rgb(238, 238, 157);
+     height: 1000px;
+      width: 500px;
+    }
+* {
+    font-size: 15px; 
+    color:rgb(8, 14, 2);
+}
+.box {
+    height: 100px;
+    width: 500px;
+}
+.card {
+    height: 200px;
+    width: 400px;
+
+}
+#point {
+   background-color:rgb(168, 49, 109)
+}
+.btn {
+    background-color:cyan;
+    background-color:rgb(218, 30, 139);
+    cursor: pointer;
+    transition: 1s all
+}
+.btn:hover{
+    background-color: aqua;
+    color: rgb(247, 6, 98);  
+    
+}
+span {
+color:rgb(141, 30, 132);
+width: 10px;
+height: 20px
+}
+h2, p {
+color: rgb(9, 9, 177);
+}
+/*.box > .line >.text  {
+    color:black
+}
+.box + .btn{
+    background-color:blueviolet;
+    color: black;
+    width: 100px;
+    height: 50px;
+}
+input[type="text"]{ wight: 400px;
+    height: 100px;
+background-color:aqua
+}*/
