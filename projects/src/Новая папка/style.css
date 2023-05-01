@@ -1,0 +1,16 @@
+*{font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;}
+  .name {
+    color: rgb(218, 238, 34);
+    font-size: 80px;
+    width: 860px;
+    height: 100px;
+    background-color: grey;
+  }
+  p {
+    color: blueviolet ;
+    font-family: 'Raleway', sans-serif;
+  }
+  span {
+    color:blueviolet ;
+  }
