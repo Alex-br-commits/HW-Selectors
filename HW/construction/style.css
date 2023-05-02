@@ -2,10 +2,10 @@
   font-family: 'Roboto', sans-serif;
   font-family: 'Rubik', sans-serif;
 }
-a:link{color:blueviolet}
-a:hover{color:deepskyblue}
-span:hover{color:deepskyblue; height:50px}
-button:hover{color:blueviolet}
+a:link{color:rgb(43, 55, 226)}
+a:hover{color:rgb(119, 0, 255)}
+span:hover{color:rgb(119, 0, 255);height:50px};
+button:hover{color:rgb(43, 55, 226)}
 
 h1 {text-align: center;
     font-weight: 900;
@@ -15,19 +15,21 @@ h1 {text-align: center;
 }
 
 .box1{color:rgb(226, 43, 58);
+        font-style: italic;
         text-decoration: none;
         font-family: 'Rubik';
         font-size: 35px;
         line-height: 35px;
-        letter-spacing: 0.03em;
+        letter-spacing: 0.1em;
     }
 
-.heder-box{color:rgb(4, 15, 172);
+.header-box{color:rgb(4, 15, 172);
+        font-style: italic;
         text-decoration: none;
         font-family:  'Rubik';
         font-size: 15px;
         line-height: 31px;
-        letter-spacing: 0.03em;
+        letter-spacing: 0.1em;
 }
 .nav-item{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
@@ -74,3 +76,10 @@ h1 {text-align: center;
 footer {
         background-color:black;
     }
+.footer-box{color:rgb(4, 15, 172);
+        font-style: italic;
+        text-decoration: none;
+        font-family:  'Rubik';
+        font-size: 15px;
+        line-height: 31px;
+        letter-spacing: 0.1em;
