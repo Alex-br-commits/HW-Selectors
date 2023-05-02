@@ -1,0 +1,92 @@
+a:link{color:rgb(43, 55, 226)}
+a:hover{color:rgb(119, 0, 255)}
+span:hover{color:rgb(119, 0, 255);height:50px};
+button:hover{color:rgb(119, 0, 225)}
+
+h1 {text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    font-family:sans-serif;
+    text-transform: uppercase;
+}
+
+.box1{color:rgb(43, 122, 226);
+        text-decoration: none;
+        font-family: 'Raleway';
+        font-size: 35px;
+        line-height: 35px;
+        letter-spacing: 0.1em;
+    }
+
+
+.header-box{color:rgb(0, 0, 3);
+        text-decoration: none;
+        font-family: 'Raleway';
+        font-size: 15px;
+        line-height: 31px;
+        letter-spacing: 0.1em;        
+}
+
+.btn{background-color:#2196F3;
+        color: white;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        border: solid #2196F3 ;
+        border-radius: 4px;
+        width: 216px;
+        height: 50px;
+
+}
+.nav-item{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.nav-discription{font-family:sans-serif;
+            font-size: 15px;
+            width: 700px;           
+}
+
+.header{background-color:black;
+        height:230px;
+        font-size: larger;
+        color: bisque; 
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+}
+.feature4{width:600px;
+
+}
+.feature3{color:rgb(0, 60, 255);
+          font-size:medium;
+          font-family: 'Times New Roman', Times, serif;
+}
+.picture1{ width: 500px;
+}
+.employees{text-align: center;
+
+}
+.picture-feature{font-size: medium;
+                 color:rgb(0, 60, 255); 
+                 font-family:'Times New Roman', Times, serif;
+}
+
+.photo-members{ width: 150px;
+                text-align: center;
+}
+.team-members{text-align: center;
+              background-color:darkseagreen ;
+              box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.adress{color: white;
+        font-style: normal;
+
+}
+footer {
+        background-color:black;
+    }
+    .footer-box{color:white;
+        text-decoration: none;
+        font-family: 'Raleway';
+        font-size: 20px;
+        line-height: 31px;
+        letter-spacing: 0.1em;
+    }
