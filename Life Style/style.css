@@ -1,0 +1,83 @@
+.item{list-style-type: none;
+
+}
+.menu{
+    font-family: 'Playfair Display';
+    color: #03A9F4;
+    
+}
+.menu:hover{
+    font-family: 'Playfair Display';
+    color: #a311dd;
+    
+}
+.menu_link{
+    width: 71px;
+    height: 19px;
+    left: 315px;
+    top: 71px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    /* identical to box height */
+    
+}
+.menu_link:hover{
+    width: 71px;
+    height: 19px;
+    left: 315px;
+    top: 71px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #a311dd;
+    /* identical to box height */
+    
+}
+
+.menu-h{width: 408px;
+    height: 40px;
+    left: 148px;
+    top: 572px;
+    
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    /* identical to box height */
+    color: #626262;
+}
+.text-p{
+    width: 500px;
+    height: 100px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+
+color: #626262;
+}
+
+.photo{
+        width: 400px;
+        height: 250px;
+}
+
+button{  
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-size: 14px;
+    line-height: 19px;
+    background-color:#FFFF;
+    width: 165px;
+    height: 60px;
+    cursor:pointer;
+}
